@@ -1,0 +1,4 @@
+module.exports = {
+	host:   '', // api.sandbox.yellowapi.com or api.yellowapi.com
+	apikey: '', // your sandbox or production api key, depending on what's in "host"
+}
