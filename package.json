@@ -3,8 +3,13 @@
   "name": "yellowapi",
   "description": "Wrapper for the YellowAPI http://www.yellowapi.com/docs",
   "version": "1.0.0",
-  "repository": { "url": ""},
+  "repository": { 
+    "type":"git",
+    "url": "https://github.com/quickredfox/yellowapi-node.git"
+  },
+  "main": "index.js",
   "engines": { "node": "~0.6.9" },
-  "dependencies": {},
-  "optionalDependencies": {}
+  "scripts": {
+    "test": "node ./test/yellowapi-test.js"
+  }
 }
