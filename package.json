@@ -2,7 +2,7 @@
   "author": "Francois Lafortune, (http://github.com/quickredfox)",
   "name": "yellowapi",
   "description": "Wrapper for the YellowAPI http://www.yellowapi.com/docs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": { 
     "type":"git",
     "url": "https://github.com/quickredfox/yellowapi-node.git"
